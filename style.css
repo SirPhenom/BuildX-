@@ -1,0 +1,32 @@
+body {
+    /* font-family: 'Alata', sans-serif; */
+}
+
+#header {
+    background: linear-gradient(rgba(82, 80, 26, 0.5),rgba(0,0,0,.5)), url('/assets/header.jpg') center/cover no-repeat fixed;
+}
+
+.img-service {
+    background: url('/assets/service4.jpg') center/cover no-repeat fixed;
+}
+
+.bg-mine {
+    background: linear-gradient(rgba(255,255,255,.8),rgba(255, 255, 255, 0.8));
+}
+
+.feedback {
+    background: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.9)), url('/assets/header.jpg') center/cover no-repeat fixed;
+}
+
+.pos-rel {
+    position: relative;
+}
+.pos-abs {
+    position: absolute;
+}
+.carousel-indicator-warning {
+    background: yellow !important;
+    border-radius: 50% !important;
+    width: .9rem !important;
+    height: .01rem !important;
+}
